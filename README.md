@@ -1,4 +1,5 @@
 # Forex Buy Sell VIP Signal App
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ### Overview :
 Forex Buy Sell VIP Signal App is an Android application that provides real-time forex trading signals, market insights, and trading alerts to help traders make better trading decisions.
