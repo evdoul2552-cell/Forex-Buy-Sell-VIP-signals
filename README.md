@@ -22,7 +22,20 @@ Forex Buy Sell VIP Signal App is an Android application that provides real-time 
 
 ## Screenshots
 
-<p align="center">
+<p align="center" float="left">
+<table>
+  <tr>
+    <td>Home Screen</td>
+    <td>Signal Screen</td>
+   
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.png" width="240"></td>
+    <td><img src="screenshots/signal.png" width="240"></td>
+  </tr>
+ </table>
+ 
+<p align="left">
 <img src="screenshots/home.png" width="250">
 <img src="screenshots/signal.png" width="250">
 </p>
