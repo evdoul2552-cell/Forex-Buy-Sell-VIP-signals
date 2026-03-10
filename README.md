@@ -61,6 +61,17 @@ app/
  └── models/
 ```
 
+## Final Repository Structure
+
+```
+Forex-Signal-App
+│
+├── app
+├── screenshots
+├── README.md
+└── LICENSE
+```
+
 ## Requirements
 
 - Android Studio
