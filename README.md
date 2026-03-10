@@ -72,8 +72,8 @@ app/
 This application provides forex trading signals for informational purposes only. Forex trading involves financial risk. Users should trade responsibly and perform their own analysis before making trading decisions.
 
 ## License
+This project is Licensed under the [MIT License](LICENSE)
 
-This project is licensed under the MIT License.
 
 ## Author
 
