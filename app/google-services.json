@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306984711426",
+    "project_id": "forex-vip-signals",
+    "storage_bucket": "forex-vip-signals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306984711426:android:f6364f7867372173fb7e1b",
+        "android_client_info": {
+          "package_name": "forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4tRFtwqyGKVmqWWBZd6sj3qXSq8xXnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

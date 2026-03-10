@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Original-->
+
+<!--    <string name="app_open">ca-app-pub-4619086346751580/5902293510</string>-->
+<!--    <string name="app_id">ca-app-pub-4619086346751580~3484185175</string>-->
+<!--    <string name="banner_preview">ca-app-pub-4619086346751580/6489622463</string>-->
+<!--    <string name="interstitial_my_creation">ca-app-pub-4619086346751580/1072610412</string>-->
+<!--    <string name="native_preview">ca-app-pub-4619086346751580/4820283738</string>-->
+<!--    <string name="ad_attribution">Ad</string>-->
+    <string name="APP_ID">ca-app-pub-7557706409539485~9152717311</string>
+    <string name="NATIVE_GGL_AD">/21952429235,23204552399/be_forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals_native</string>
+    <string name="NATIVE_BANNER_GGL">/21952429235,23204552399/be_forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals_banner</string>
+    <string name="INTRESTITIAL_GGL_AD">/21952429235,23204552399/be_forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals_interstitial</string>
+    <string name="APP_OPEN">/21952429235,23204552399/be_forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals_open</string>
+    <string name="ad_attribution" translatable="false">Ad</string>
+
+
+    <!-- TEST   -->
+
+
+<!--    <string name="app_open">ca-app-pub-3940256099942544/9257395921</string>-->
+<!--    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="banner_preview">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="interstitial_my_creation">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="native_preview">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="ad_attribution">Ad</string>-->
+
+<!--        <string name="APP_ID">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--        <string name="NATIVE_GGL_AD">/21775744923/example/native</string>-->
+<!--        <string name="NATIVE_BANNER_GGL">/21775744923/example/fixed-size-banner</string>-->
+<!--        <string name="INTRESTITIAL_GGL_AD">/21775744923/example/interstitial</string>-->
+<!--        <string name="APP_OPEN">/21775744923/example/app-open</string>-->
+<!--        <string name="ad_attribution" translatable="false">Ad</string>-->
+</resources>
