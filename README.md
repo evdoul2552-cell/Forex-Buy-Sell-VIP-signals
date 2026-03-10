@@ -61,6 +61,7 @@ app/
  └── models/
 ```
 
+
 ## Final Repository Structure
 
 ```
@@ -71,6 +72,7 @@ Forex-Signal-App
 ├── README.md
 └── LICENSE
 ```
+
 
 ## Requirements
 
