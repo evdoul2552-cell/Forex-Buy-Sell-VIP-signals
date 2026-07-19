@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Forex Vip Signals</string>
+    <string name="app_name">Aurum Pro Trader</string>
     <string name="about">More Apps</string>
     <string name="action">Action</string>
     <string name="active">Active</string>
@@ -8,7 +8,6 @@
     <string name="airplane_on">You have turned on the airplane mode.</string>
     <string name="alert_placeholder_message">This is a message to be displayed on the alert.</string>
     <string name="alert_placeholder_title">Title</string>
-    <string name="all_premium_plans">All Premium Plans</string>
     <string name="analysis">Analysis</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -30,7 +29,6 @@
     <string name="default_snackbar_message">No active Internet connection!</string>
     <string name="default_title">No Internet</string>
     <string name="default_web_client_id">843314339703-v3ja4dt350554s5db6a6t3ufrt4pgikk.apps.googleusercontent.com</string>
-    <string name="desc_premium">If you choose to purchase a subscription, payment will be charged to your Google account, and your account will be charged for renewal within 24 hours before the end of the current period.\10\10Auto-renewal may be turned off at any time by going to your settings in the Play Store after purchase. If you don\'t choose to purchase a subscription, you can simply continue using the App for free.\10\10For more information. Please visit our Terms of Use and Privacy Policy</string>
     <string name="description">DESCRIPTION</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
@@ -42,12 +40,10 @@
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="firebase_database_url">https://singal-apps.firebaseio.com</string>
     <string name="gcm_defaultSenderId">843314339703</string>
-    <string name="go_premium">Go Premium</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">History</string>
     <string name="home">Home</string>
     <string name="icon_content_description">Dialog Icon</string>
-    <string name="if_you_have_a_previous">If you have a previous subscription, click the restore button to activate it.</string>
     <string name="item_view_role_description">Tab</string>
     <string name="last_update_time">Last update time</string>
     <string name="library_name">Oops! No Internet!</string>
@@ -57,7 +53,6 @@
     <string name="monthly">Monthly</string>
     <string name="msg_token_fmt">token data: %s</string>
     <string name="new_signal">New Signal</string>
-    <string name="no_ads">No Ads</string>
     <string name="no_desc">no_desc</string>
     <string name="no_internet_body">You are not connected to the Internet</string>
     <string name="no_internet_title">No Internet</string>
@@ -91,7 +86,6 @@
     <string name="trade_probability">Possibility</string>
     <string name="trade_result">Trade result</string>
     <string name="try_again">Something went wrong, try again</string>
-    <string name="try_the_best_package_that_suits_to_you">Try the best package that suits to you to remove all ads from the app</string>
     <string name="turn_off">Please turn off</string>
     <string name="turn_on">Please turn on</string>
     <string name="successful_trade">Successful Trade</string>
@@ -221,7 +215,6 @@
     <string name="webbasedtrading">Web based trading:</string>
     <string name="worththanexpected">Worse than expected</string>
 
-    <string name="watch_ad">Watch AD</string>
     <string name="cancle">Cancel</string>
     <string name="share">Share</string>
 

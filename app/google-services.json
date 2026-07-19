@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:306984711426:android:f6364f7867372173fb7e1b",
         "android_client_info": {
-          "package_name": "forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals"
+          "package_name": "com.aurum.trader"
         }
       },
       "oauth_client": [],

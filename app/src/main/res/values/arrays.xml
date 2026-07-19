@@ -18,6 +18,12 @@
         <item>@font/rubik</item>
     </array>
 
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Persian</item>
+    </string-array>
+
     <array name="countries">
         <item>Aruba</item>
         <item>Antigua and Barbuda</item>

@@ -5,15 +5,16 @@ plugins {
 }
 
 android {
-    namespace 'forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals'
-    compileSdk 34
+    namespace 'com.aurum.trader'
+    compileSdk 33
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "forex.school.trading.app.buy.sell.signals.forexvipbuysellsignals"
+        applicationId "com.aurum.trader"
         minSdk 21
-        targetSdk 34
-        versionCode 3
-        versionName "1.2"
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -48,6 +49,7 @@ dependencies {
     implementation libs.firebase.config
     implementation libs.firebase.database
     implementation libs.firebase.messaging
+    implementation libs.play.services.ads
     implementation libs.lifecycle.livedata.ktx
     implementation libs.lifecycle.viewmodel.ktx
     implementation libs.navigation.fragment
@@ -66,8 +68,18 @@ dependencies {
 
     implementation "io.github.rupinderjeet:kprogresshud:1.0.0"
 
-    implementation libs.play.services.ads
     implementation 'android.arch.lifecycle:extensions:1.1.1'
 
     implementation 'com.google.firebase:firebase-messaging-directboot:24.1.0'
+    
+    // Encryption for secure storage
+    implementation 'androidx.security:security-crypto:1.1.0-alpha06'
+    
+    // Additional ML Kit for image analysis
+    implementation 'com.google.mlkit:text-recognition:16.0.0'
+    implementation 'com.google.mlkit:image-labeling:17.0.7'
+    
+    // Networking improvements
+    implementation 'com.squareup.okhttp3:okhttp:4.11.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.11.0'
 }
